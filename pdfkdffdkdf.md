@@ -1,7 +1,7 @@
 **Privacy Policy**
 
 
-This application belongs to the developer : courtneyjaneatkins@gmail.com![image](https://github.com/fornoviherreromarta/Smart_Converter/assets/139559684/30663881-22c8-403d-9cd2-74dc72c6814d)
+This application belongs to the developer : fornoviherreromarta@gmail.com
 
 fornoviherreromarta built the Смарт-конвертер app as a Free app. This SERVICE is provided by fornoviherreromarta at no cost and is intended for use as is.
 
